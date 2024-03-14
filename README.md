@@ -1,5 +1,5 @@
 <p align="center">
-    ![Data Transformer](assets/logo.png)
+    <img src="./assets/logo.png" alt="Dashboard Logo">
 </p>
 
 O Data Transformer é uma ferramenta de ETL (Extract, Transform, Load) projetada para simplificar o processo de transformação de dados em diferentes formatos, incluindo xlsx, CSV e txt. Com uma interface intuitiva, o software permite visualizar, selecionar e processar colunas, além de oferecer opções avançadas como pular linhas e escolher separadores. Esta ferramenta é ideal para preparar dados de forma eficiente antes de carregá-los em sistemas de banco de dados ou realizar análises.
@@ -22,34 +22,34 @@ Aqui estão algumas capturas de tela que demonstram as principais funcionalidade
 O arquivo contém espaços antes e depois de dados, o tipo da coluna idade não está adequado e o arquivo não está formatado.
 
 <p align="center">
-    ![Arquivo](assets/cases/exemplo1_1.png)
+    <img src="./assets/cases/exemplo1_1.png" alt="1">
 </p>
 
 2. **Opções selecionadas para tratar o arquivo:**
 Seleciona-se o tipo do arquivo, quais colunas deseja-se pula e o tipo das colunas.
 <p align="center">
-    ![Seleção](assets/cases/exemplo1_2.png)
+    <img src="./assets/cases/exemplo1_2.png" alt="2">
 </p>
 
 3. **Transformação de dados realizada com sucesso:**
 Caso a transformação de dados tenha ocorrido com sucesso uma mensagem é exibida.
 
 <p align="center">
-    ![Aviso](assets/cases/exemplo1_3.png)
+    <img src="./assets/cases/exemplo1_3.png" alt="3">
 </p>
 
 4. **Armazenamento do resultado:**
 O arquivo com o resultado é salvo na pasta de "Downloads" do usuário. 
 
 <p align="center">
-    ![Visualização Caminho Resultado](assets/cases/exemplo1_4.png)
+    <img src="./assets/cases/exemplo1_4.png" alt="4">
 </p>
 
 5. **Resultado Final:**
 O novo arquivo com os dados tratados ficou assim.
 
 <p align="center">
-    ![Visualização Resultado](assets/cases/exemplo1_5.png)
+    <img src="./assets/cases/exemplo1_5.png" alt="5">
 </p>
 
 # --------------------------------------
@@ -58,14 +58,14 @@ O novo arquivo com os dados tratados ficou assim.
 O arquivo contém cabeçalho e rodapé, além de dados que não necessários nas linhas iniciais. Além disso há espaços antes e depois de dados e colunas vazias.
 
 <p align="center">
-    ![Arquivo_2](assets/cases/exemplo2_1.png)
+    <img src="./assets/cases/exemplo2_1.png" alt="6">
 </p>
 
 2. **Opções selecionadas para tratar o arquivo:**
 Seleciona-se o tipo do arquivo, quais colunas deseja-se pula e o tipo das colunas.
 
 <p align="center">
-    ![Seleção_2](assets/cases/exemplo2_2.png)
+    <img src="./assets/cases/exemplo2_2.png" alt="7">
 </p>
 
 3. **Resultado Final:**
@@ -73,7 +73,7 @@ Como mencionado acima, o arquivo é salvo na pasta de "Downloads" do usuário.
 O novo arquivo com os dados tratados ficou assim.
 
 <p align="center">
-    ![Visualização Resultado_2](assets/cases/exemplo2_3.png)
+    <img src="./assets/cases/exemplo2_3.png" alt="8">
 </p>
 # -----------------------------------
 ## Como Usar
