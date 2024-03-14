@@ -16,7 +16,7 @@ O Data Transformer é uma ferramenta de ETL (Extract, Transform, Load) projetada
 
 Aqui estão algumas capturas de tela que demonstram as principais funcionalidades do Data Transformer:
 
-# ------------------------------------------
+#
 ### Exemplo 1:
 1. **Arquivo .xlsx inicial:**
 O arquivo contém espaços antes e depois de dados, o tipo da coluna idade não está adequado e o arquivo não está formatado.
@@ -52,7 +52,7 @@ O novo arquivo com os dados tratados ficou assim.
     <img src="./assets/cases/exemplo1_5.png" alt="5">
 </p>
 
-# --------------------------------------
+#
 ### Exemplo 2:
 1. **Arquivo .txt inicial:**
 O arquivo contém cabeçalho e rodapé, além de dados que não necessários nas linhas iniciais. Além disso há espaços antes e depois de dados e colunas vazias.
@@ -75,7 +75,9 @@ O novo arquivo com os dados tratados ficou assim.
 <p align="center">
     <img src="./assets/cases/exemplo2_3.png" alt="8">
 </p>
-# -----------------------------------
+
+#
+
 ## Como Usar
 
 1. Baixe e instale o aplicativo.
