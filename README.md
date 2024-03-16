@@ -15,13 +15,14 @@ Data Transformer é uma ferramenta de ETL (Extract, Transform, Load) projetada p
   - Decimal: Converte os dados para o tipo de número decimal.
   - Data: Converte os dados para o formato dd/mm/aaaa.
 - Interface gráfica intuitiva e fácil de usar.
+- Geração de Log: em caso de erro durante o processo de transformação de dados, um arquivo de log será gerado para auxiliar na identificação e resolução do problema.
 
 
 ## Demonstração das Funcionalidades
 
 Aqui estão algumas capturas de tela que demonstram as principais funcionalidades do Data Transformer:
 
-#
+
 ### Exemplo 1:
 1. **Arquivo .xlsx inicial:**
 O arquivo contém espaços antes e depois de dados, o tipo da coluna idade não está adequado e o arquivo não está formatado.
