@@ -2,15 +2,20 @@
     <img src="./assets/logo.png" alt="Dashboard Logo">
 </p>
 
-O Data Transformer é uma ferramenta de ETL (Extract, Transform, Load) projetada para simplificar o processo de transformação de dados em diferentes formatos, incluindo xlsx, CSV e txt. Com uma interface intuitiva, o software permite visualizar, selecionar e processar colunas, além de oferecer opções avançadas como pular linhas e escolher separadores. Esta ferramenta é ideal para preparar dados de forma eficiente antes de carregá-los em sistemas de banco de dados ou realizar análises.
+Data Transformer é uma ferramenta de ETL (Extract, Transform, Load) projetada para simplificar o processo de transformação de dados em diferentes formatos, incluindo xlsx, csv e txt. Com uma interface intuitiva, o software permite visualizar, selecionar e processar colunas, além de oferecer opções avançadas como pular linhas e escolher separadores. Esta ferramenta é ideal para preparar dados de forma eficiente antes de carregá-los em sistemas de banco de dados ou realizar análises.
 
 ## Funcionalidades Principais
 
-- Carregamento de arquivos em formatos xlsx, CSV e txt.
+- Carregamento de arquivos nos formatos xlsx, csv e txt.
 - Visualização e seleção de colunas para transformação.
-- Opções avançadas para pular linhas e escolher separadores.
-- Suporte a diferentes tipos de transformações, incluindo conversão de tipos de dados.
+- Opções para pular linhas e escolher separadores.
+- Suporte a diferentes tipos de transformações, incluindo conversão de tipos de dados:
+  - Texto: Permite manter os dados como texto.
+  - Inteiro: Converte os dados para o tipo inteiro.
+  - Decimal: Converte os dados para o tipo de número decimal.
+  - Data: Converte os dados para o formato dd/mm/aaaa.
 - Interface gráfica intuitiva e fácil de usar.
+
 
 ## Demonstração das Funcionalidades
 
@@ -120,7 +125,3 @@ python main.py
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou relatar problemas.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
