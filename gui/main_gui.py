@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk, filedialog
 from PIL import Image, ImageTk, ImageOps
 
+
 class GUIClass:
     def __init__(self, root, etl):
         self.root = root

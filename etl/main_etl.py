@@ -4,6 +4,7 @@ from tkinter import messagebox
 import os
 from datetime import datetime
 
+
 def strip_columns(df):
     df.columns = df.columns.str.strip()
     return df
